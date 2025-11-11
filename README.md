@@ -29,8 +29,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## Getting Started
 
-### Clone the repository: 
-`git clone https://github.com/HamzaZaidiX/My-Portfolio-html-css-js.git`
 
 ## [Portfolio Website Click Here =>💁‍♂️🚀](https://developerdilipkumar.netlify.app/)
 
